@@ -5,4 +5,4 @@
 <h3>Formato desktop e Mobile</h3>
 
 <img src="https://github.com/luchs8/We-Care/blob/main/assets/Desktopwe.png"/>
-<img src="https://github.com/luchs8/We-Care/blob/main/assets/Mobilewe.png">
+<img src="https://github.com/luchs8/We-Care/blob/main/assets/WeMobile.png">
